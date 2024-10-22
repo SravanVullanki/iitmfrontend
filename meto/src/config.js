@@ -1,5 +1,5 @@
 const config =
 {
-  url: `http://localhost:4466`
+  url: `https://iitmbackend-1.onrender.com`
 };
 export default config;
